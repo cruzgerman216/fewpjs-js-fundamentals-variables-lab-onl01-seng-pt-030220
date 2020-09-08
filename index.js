@@ -1,4 +1,4 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
 
-const companyCeo = "Susan Smith"
+let companyCeo = "Susan Smith"
